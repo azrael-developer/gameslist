@@ -1,4 +1,4 @@
-package services;
+package com.christianmendes.gameslist.services;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
